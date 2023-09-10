@@ -1,4 +1,5 @@
 --Pl/SQL code
+/* print 1..10*/
 
 Declare 
 x Number  := 0
@@ -8,7 +9,7 @@ x :=x+i
 end loop;
 end;
 
-/* print 1..10*/
 
-modified
+
+
 
