@@ -8,3 +8,6 @@ x :=x+i
 end loop;
 end;
 
+/* print 1..10*/
+
+
